@@ -6,8 +6,12 @@
     .btn-m-resp {
         margin-bottom: 1rem;
     }
-    .navbar-brand-resp {
+    .navbar-resp {
         padding-left: 1rem;
     }
+}
+
+.subnav-light {
+    color: rgba(255,255,255,.5);
 }
 
